@@ -1,4 +1,4 @@
-name: Bitcoin Scraper (Every 10 Minutes)
+name: Ebay Deals Scraper (Every 3 hours)
 
 on:
   schedule:
