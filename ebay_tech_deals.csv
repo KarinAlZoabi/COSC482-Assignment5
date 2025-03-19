@@ -1,86 +1,166 @@
 Timestamp,Title,Price,Original Price,Shipping,Item Url
-2025-03-19 23:01:48,Apple iPhone 14 Pro 128GB Unlocked - Excellent,US $446.95,not available,N/A,https://www.ebay.com/itm/405469724990?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
-2025-03-19 23:01:48,Apple iPhone 13 128GB Unlocked - Excellent,US $291.95,not available,N/A,https://www.ebay.com/itm/404240045218?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
-2025-03-19 23:01:48,Apple iPhone 13 128GB Unlocked - Excellent,US $301.99,not available,N/A,https://www.ebay.com/itm/256350256024?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
-2025-03-19 23:01:48,Apple iPhone 13 Pro 256GB Unlocked - Excellent,US $402.95,not available,N/A,https://www.ebay.com/itm/386146593917?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
-2025-03-19 23:01:48,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:48,"Lenovo LOQ 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 12GB RAM 512GB SSD RTX 3050",US $599.99,US $880.99,N/A,https://www.ebay.com/itm/126480962681?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
-2025-03-19 23:01:49,"Lenovo LOQ-E 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 8GB RAM 512GB SSD RTX 2050",US $499.99,US $699.99,N/A,https://www.ebay.com/itm/126754097392?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
-2025-03-19 23:01:49,MacBook Air 15-inch 2024 M3 / 16GB RAM / 512GB SSD / 10-Core GPU / Midnight,"US $1,099.00",not available,N/A,https://www.ebay.com/itm/256520205430?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
-2025-03-19 23:01:49,"Microsoft R1V-00009-SG 13.5"" 8GB 512GB Surface Laptop-5 - Certified Refurbished",US $459.99,"US $1,099.99",N/A,https://www.ebay.com/itm/135463162076?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
-2025-03-19 23:01:49,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:49,Celestron 93973 SkyQ Link 2 Wi-Fi Module (Black),US $109.99,US $169.95,N/A,https://www.ebay.com/itm/374232972694?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014464
-2025-03-19 23:01:50,50-in-1 + Waterproof Case for Gopro Hero 12 11 10 Action Camera Accessory Kit,US $39.99,not available,N/A,https://www.ebay.com/itm/116174595662?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014464
-2025-03-19 23:01:50,"DJI Osmo Mobile SE Gimbal, 3-Axis, Portable , Foldable, Android , iPhone Gimbal",US $69.00,not available,N/A,https://www.ebay.com/itm/305001613153?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014464
+2025-03-19 23:01:48,Apple iPhone 14 Pro 128GB Unlocked - Excellent,US $446.95,not available,,https://www.ebay.com/itm/405469724990?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
+2025-03-19 23:01:48,Apple iPhone 13 128GB Unlocked - Excellent,US $291.95,not available,,https://www.ebay.com/itm/404240045218?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
+2025-03-19 23:01:48,Apple iPhone 13 128GB Unlocked - Excellent,US $301.99,not available,,https://www.ebay.com/itm/256350256024?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
+2025-03-19 23:01:48,Apple iPhone 13 Pro 256GB Unlocked - Excellent,US $402.95,not available,,https://www.ebay.com/itm/386146593917?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014468
+2025-03-19 23:01:48,,,not available,,Not Found
+2025-03-19 23:01:48,"Lenovo LOQ 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 12GB RAM 512GB SSD RTX 3050",US $599.99,US $880.99,,https://www.ebay.com/itm/126480962681?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
+2025-03-19 23:01:49,"Lenovo LOQ-E 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 8GB RAM 512GB SSD RTX 2050",US $499.99,US $699.99,,https://www.ebay.com/itm/126754097392?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
+2025-03-19 23:01:49,MacBook Air 15-inch 2024 M3 / 16GB RAM / 512GB SSD / 10-Core GPU / Midnight,"US $1,099.00",not available,,https://www.ebay.com/itm/256520205430?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
+2025-03-19 23:01:49,"Microsoft R1V-00009-SG 13.5"" 8GB 512GB Surface Laptop-5 - Certified Refurbished",US $459.99,"US $1,099.99",,https://www.ebay.com/itm/135463162076?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014452
+2025-03-19 23:01:49,,,not available,,Not Found
+2025-03-19 23:01:49,Celestron 93973 SkyQ Link 2 Wi-Fi Module (Black),US $109.99,US $169.95,,https://www.ebay.com/itm/374232972694?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014464
+2025-03-19 23:01:50,50-in-1 + Waterproof Case for Gopro Hero 12 11 10 Action Camera Accessory Kit,US $39.99,not available,,https://www.ebay.com/itm/116174595662?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014464
+2025-03-19 23:01:50,"DJI Osmo Mobile SE Gimbal, 3-Axis, Portable , Foldable, Android , iPhone Gimbal",US $69.00,not available,,https://www.ebay.com/itm/305001613153?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014464
 2025-03-19 23:01:52,AOCHUAN Smart XE 3-Axis Smartphone Gimbal Stabilizer for iPhone Android Phones,US $49.00,not available,Free shipping,https://www.ebay.com/itm/405047322473?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014464
-2025-03-19 23:01:52,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:52,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",US $149.00,US $199.00,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
-2025-03-19 23:01:53,Onn. Google TV 4K Streaming 4K UHD Resolution 2023 Brand New,US $26.00,not available,N/A,https://www.ebay.com/itm/225931956556?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
-2025-03-19 23:01:53,BenQ GP500 4K HDR LED Smart Home Theater Projector 1500 Lm Auto Focus 1.3x zoom,US $734.00,"US $1,799.00",N/A,https://www.ebay.com/itm/166398780476?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
-2025-03-19 23:01:53,BenQ HT2060 1080p HDR10 Home Theater LED Projector 4K supported 2300lm w/Speaker,US $726.00,"US $1,099.99",N/A,https://www.ebay.com/itm/166234944317?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
-2025-03-19 23:01:53,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:53,"Apple iPad 9 (2021) 10.2"" 64GB 256GB Space Gray Silver WiFi or Cellular - Good",US $189.99,not available,N/A,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
-2025-03-19 23:01:53,"Samsung Galaxy Tab S8 Ultra 14.6"" 128GB X900 Wifi Only No S-Pen - Excellent",US $390.00,US $899.99,N/A,https://www.ebay.com/itm/256402595266?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
-2025-03-19 23:01:53,"Samsung Galaxy Tab S8 Ultra 14.6"" 128GB X900 Wifi Only - Excellent",US $437.00,US $899.99,N/A,https://www.ebay.com/itm/256728624782?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
-2025-03-19 23:01:53,"Samsung Galaxy Tab S9 FE 5G SM-X518U AT&T Unlocked (Any Carrier) 10.9"" 128GB",US $274.99,US $500.00,N/A,https://www.ebay.com/itm/204770375443?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
-2025-03-19 23:01:53,N/A,N/A,not available,N/A,Not Found
+2025-03-19 23:01:52,,,not available,,Not Found
+2025-03-19 23:01:52,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",US $149.00,US $199.00,,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
+2025-03-19 23:01:53,Onn. Google TV 4K Streaming 4K UHD Resolution 2023 Brand New,US $26.00,not available,,https://www.ebay.com/itm/225931956556?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
+2025-03-19 23:01:53,BenQ GP500 4K HDR LED Smart Home Theater Projector 1500 Lm Auto Focus 1.3x zoom,US $734.00,"US $1,799.00",,https://www.ebay.com/itm/166398780476?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
+2025-03-19 23:01:53,BenQ HT2060 1080p HDR10 Home Theater LED Projector 4K supported 2300lm w/Speaker,US $726.00,"US $1,099.99",,https://www.ebay.com/itm/166234944317?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014481
+2025-03-19 23:01:53,,,not available,,Not Found
+2025-03-19 23:01:53,"Apple iPad 9 (2021) 10.2"" 64GB 256GB Space Gray Silver WiFi or Cellular - Good",US $189.99,not available,,https://www.ebay.com/itm/165337813141?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
+2025-03-19 23:01:53,"Samsung Galaxy Tab S8 Ultra 14.6"" 128GB X900 Wifi Only No S-Pen - Excellent",US $390.00,US $899.99,,https://www.ebay.com/itm/256402595266?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
+2025-03-19 23:01:53,"Samsung Galaxy Tab S8 Ultra 14.6"" 128GB X900 Wifi Only - Excellent",US $437.00,US $899.99,,https://www.ebay.com/itm/256728624782?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
+2025-03-19 23:01:53,"Samsung Galaxy Tab S9 FE 5G SM-X518U AT&T Unlocked (Any Carrier) 10.9"" 128GB",US $274.99,US $500.00,,https://www.ebay.com/itm/204770375443?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014454
+2025-03-19 23:01:53,,,not available,,Not Found
 2025-03-19 23:01:53,Nintendo new 3DS LL XL Console only Various colors Used RANK A/B Region free,US $234.99,not available,Free shipping,https://www.ebay.com/itm/392605432382?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014470
 2025-03-19 23:01:54,PS Vita PCH-2000 Sony Playstation Accessory complete Console Used (Excellent),US $174.99,not available,Free shipping,https://www.ebay.com/itm/394111931672?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014470
-2025-03-19 23:01:54,RULE OF ROSE ENG PS2 PAL UK BRAND NEW SEALED 505 GAMES QUALITY CECK CONTROL,US $262.14,not available,N/A,https://www.ebay.com/itm/256673834870?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014470
+2025-03-19 23:01:54,RULE OF ROSE ENG PS2 PAL UK BRAND NEW SEALED 505 GAMES QUALITY CECK CONTROL,US $262.14,not available,,https://www.ebay.com/itm/256673834870?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014470
 2025-03-19 23:01:54,Sony PS5 Genuine Stick Module CFI-ZSM1G for DualSense Edge NEW FAST SHIPPING,US $37.50,not available,Free shipping,https://www.ebay.com/itm/126828529391?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014470
-2025-03-19 23:01:54,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:54,Pivo Pod Silver with Remote and Travel Case - Fast Auto Tracking Phone Silver,US $49.99,not available,N/A,https://www.ebay.com/itm/334638953359?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
-2025-03-19 23:01:54,ORIGINAL BATTERY SAMSUNG EB-BN980ABY GALAXY NOTE 20 5G SM-N980F/DS SM-N981U OEM,US $28.30,not available,N/A,https://www.ebay.com/itm/135102614669?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
-2025-03-19 23:01:54,Genuine / Official Apple iPhone 13 Silicone MagSafe Case / Cover - Blue Jay,US $44.13,US $63.62,N/A,https://www.ebay.com/itm/374184094391?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
-2025-03-19 23:01:54,Apple AirTag Bluetooth GPS Tracker Silver MX532AM/A A2187 For iPhone & iPad,US $22.95,not available,N/A,https://www.ebay.com/itm/296373153889?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
-2025-03-19 23:01:54,N/A,N/A,not available,N/A,Not Found
+2025-03-19 23:01:54,,,not available,,Not Found
+2025-03-19 23:01:54,Pivo Pod Silver with Remote and Travel Case - Fast Auto Tracking Phone Silver,US $49.99,not available,,https://www.ebay.com/itm/334638953359?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
+2025-03-19 23:01:54,ORIGINAL BATTERY SAMSUNG EB-BN980ABY GALAXY NOTE 20 5G SM-N980F/DS SM-N981U OEM,US $28.30,not available,,https://www.ebay.com/itm/135102614669?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
+2025-03-19 23:01:54,Genuine / Official Apple iPhone 13 Silicone MagSafe Case / Cover - Blue Jay,US $44.13,US $63.62,,https://www.ebay.com/itm/374184094391?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
+2025-03-19 23:01:54,Apple AirTag Bluetooth GPS Tracker Silver MX532AM/A A2187 For iPhone & iPad,US $22.95,not available,,https://www.ebay.com/itm/296373153889?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014474
+2025-03-19 23:01:54,,,not available,,Not Found
 2025-03-19 23:01:54,Taramps DS 2000x4 2 Ohms 2000 Watts RMS 4-Channel 500x4 Watts RMS Class D,US $217.99,not available,Free shipping,https://www.ebay.com/itm/354493911383?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014450
-2025-03-19 23:01:55,WOLFBOX G840S 12”Mirror Dash Cam 4K Rear View Mirror Dash Camera Front and Rear,US $64.99,US $104.99,N/A,https://www.ebay.com/itm/225914453447?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014450
-2025-03-19 23:01:55,"REDTIGER Dash Camera 4K Front and Rear Dash Cam Built-In WiFi & GPS, App control",US $69.99,US $129.99,N/A,https://www.ebay.com/itm/285933024479?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014450
-2025-03-19 23:01:55,REDTIGER F9 4K Dash Cam Front and Rear Dash Camera WiFi GPS with Free 32GB Card,US $59.99,US $119.99,N/A,https://www.ebay.com/itm/285572040505?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014450
-2025-03-19 23:01:55,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:55,"Seagate IronWolf 12TB 7200RPM SATA 6Gb/s 256MB 3.5"" NAS Hard Drive ST12000VN0007",US $133.99,not available,N/A,https://www.ebay.com/itm/166672350380?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
-2025-03-19 23:01:55,"Seagate IronWolf Pro 10TB 7200RPM SATA 6Gb/s 256MB 3.5"" NAS HDD - ST10000NE0004",US $128.99,not available,N/A,https://www.ebay.com/itm/167272951826?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
-2025-03-19 23:01:55,"Seagate Exos 28TB 7.2K RPM SATA 6Gb/s 3.5"" Enterprise HDD - ST28000NM000C",US $334.99,not available,N/A,https://www.ebay.com/itm/296879436001?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
-2025-03-19 23:01:55,MSI SPATIUM Series M482 M.2 2280 2TB PCI-Express 4.0 x4 Internal Solid State Dri,US $152.99,not available,N/A,https://www.ebay.com/itm/386842541654?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
-2025-03-19 23:01:55,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:55,"HP OfficeJet 250 Mobile All-in-One Printer | Mobile Print, Scan, Copy | CZ992A",US $389.99,US $489.99,N/A,https://www.ebay.com/itm/155769674699?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
-2025-03-19 23:01:55,New Zebra ZD421 Direct Thermal Desktop Label Printer 203 dpi No Ribbon Required,US $299.00,US $499.00,N/A,https://www.ebay.com/itm/116462122244?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
-2025-03-19 23:01:56,New Zebra ZD421 ZD4AH42-D01E00EZ Direct Thermal Label Healthcare Printer 203 dpi,US $399.00,US $669.00,N/A,https://www.ebay.com/itm/116415636410?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
+2025-03-19 23:01:55,WOLFBOX G840S 12”Mirror Dash Cam 4K Rear View Mirror Dash Camera Front and Rear,US $64.99,US $104.99,,https://www.ebay.com/itm/225914453447?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014450
+2025-03-19 23:01:55,"REDTIGER Dash Camera 4K Front and Rear Dash Cam Built-In WiFi & GPS, App control",US $69.99,US $129.99,,https://www.ebay.com/itm/285933024479?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014450
+2025-03-19 23:01:55,REDTIGER F9 4K Dash Cam Front and Rear Dash Camera WiFi GPS with Free 32GB Card,US $59.99,US $119.99,,https://www.ebay.com/itm/285572040505?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014450
+2025-03-19 23:01:55,,,not available,,Not Found
+2025-03-19 23:01:55,"Seagate IronWolf 12TB 7200RPM SATA 6Gb/s 256MB 3.5"" NAS Hard Drive ST12000VN0007",US $133.99,not available,,https://www.ebay.com/itm/166672350380?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
+2025-03-19 23:01:55,"Seagate IronWolf Pro 10TB 7200RPM SATA 6Gb/s 256MB 3.5"" NAS HDD - ST10000NE0004",US $128.99,not available,,https://www.ebay.com/itm/167272951826?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
+2025-03-19 23:01:55,"Seagate Exos 28TB 7.2K RPM SATA 6Gb/s 3.5"" Enterprise HDD - ST28000NM000C",US $334.99,not available,,https://www.ebay.com/itm/296879436001?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
+2025-03-19 23:01:55,MSI SPATIUM Series M482 M.2 2280 2TB PCI-Express 4.0 x4 Internal Solid State Dri,US $152.99,not available,,https://www.ebay.com/itm/386842541654?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014456
+2025-03-19 23:01:55,,,not available,,Not Found
+2025-03-19 23:01:55,"HP OfficeJet 250 Mobile All-in-One Printer | Mobile Print, Scan, Copy | CZ992A",US $389.99,US $489.99,,https://www.ebay.com/itm/155769674699?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
+2025-03-19 23:01:55,New Zebra ZD421 Direct Thermal Desktop Label Printer 203 dpi No Ribbon Required,US $299.00,US $499.00,,https://www.ebay.com/itm/116462122244?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
+2025-03-19 23:01:56,New Zebra ZD421 ZD4AH42-D01E00EZ Direct Thermal Label Healthcare Printer 203 dpi,US $399.00,US $669.00,,https://www.ebay.com/itm/116415636410?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
 2025-03-19 23:01:56,50Y0096 POS Thermal Printer Print Head for IBM SureMark 4610-1NR 4610-1ND 203dpi,US $25.31,not available,Free shipping,https://www.ebay.com/itm/133777216696?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
-2025-03-19 23:01:56,Original Toner HP ColorLaserjet 4700 N DN DTN / 643A Q5950A Q5951A Q5952A Q5953A,US $108.18,not available,N/A,https://www.ebay.com/itm/356206193387?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
+2025-03-19 23:01:56,Original Toner HP ColorLaserjet 4700 N DN DTN / 643A Q5950A Q5951A Q5952A Q5953A,US $108.18,not available,,https://www.ebay.com/itm/356206193387?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014472
 2025-03-19 23:01:56,Sony MDR-7506 Professional Studio Wired Headphone Headset,US $59.79,not available,Free shipping,https://www.ebay.com/itm/356129102114?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014460
 2025-03-19 23:01:56,"NEW, Apple iPod Classic 7th Generation 160GB Black( Retail box)-5 years Warranty",US $179.09,not available,Free shipping,https://www.ebay.com/itm/145942297127?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014460
-2025-03-19 23:01:56,Sony WF-1000XM5 Truly Wireless Bluetooth Noise Canceling Headphones - Black,US $112.99,US $299.99,N/A,https://www.ebay.com/itm/276015021037?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014460
+2025-03-19 23:01:56,Sony WF-1000XM5 Truly Wireless Bluetooth Noise Canceling Headphones - Black,US $112.99,US $299.99,,https://www.ebay.com/itm/276015021037?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014460
 2025-03-19 23:01:56,Bose SoundSport Wired 3.5mm Jack Earphones Headphones Earbuds Charcoal-Black,US $29.80,not available,Free shipping,https://www.ebay.com/itm/356129102581?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014460
-2025-03-19 23:01:56,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:56,Canon RF 28-70mm f/2.8 IS STM Lens Canon RF,US $999.00,"US $1,099.00",N/A,https://www.ebay.com/itm/286086611827?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014476
+2025-03-19 23:01:56,,,not available,,Not Found
+2025-03-19 23:01:56,Canon RF 28-70mm f/2.8 IS STM Lens Canon RF,US $999.00,"US $1,099.00",,https://www.ebay.com/itm/286086611827?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014476
 2025-03-19 23:01:56,32mm to 37mm Step Upping Cover Adapter Cover Lens Adapter Filter Camera,US $3.49,not available,Free shipping,https://www.ebay.com/itm/394158348565?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014476
-2025-03-19 23:01:57,Mamiya / Phaseone 645 Zoom-AF 55-110 4.5 - Top Zustand! RAR,US $545.26,not available,N/A,https://www.ebay.com/itm/186758103412?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014476
-2025-03-19 23:01:57,"für Nikon AF, Sigma DC 30 mm F/1.4 HSM",US $147.51,not available,N/A,https://www.ebay.com/itm/205080921211?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014476
-2025-03-19 23:01:57,N/A,N/A,not available,N/A,Not Found
+2025-03-19 23:01:57,Mamiya / Phaseone 645 Zoom-AF 55-110 4.5 - Top Zustand! RAR,US $545.26,not available,,https://www.ebay.com/itm/186758103412?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014476
+2025-03-19 23:01:57,"für Nikon AF, Sigma DC 30 mm F/1.4 HSM",US $147.51,not available,,https://www.ebay.com/itm/205080921211?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014476
+2025-03-19 23:01:57,,,not available,,Not Found
 2025-03-19 23:01:57,Sony MDR-7506 Professional Studio Wired Headphone Headset,US $59.79,not available,Free shipping,https://www.ebay.com/itm/356129102114?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014488
 2025-03-19 23:01:57,Taramps DS 2000x4 2 Ohms 2000 Watts RMS 4-Channel 500x4 Watts RMS Class D,US $217.99,not available,Free shipping,https://www.ebay.com/itm/354493911383?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014488
 2025-03-19 23:01:57,"NEW, Apple iPod Classic 7th Generation 160GB Black( Retail box)-5 years Warranty",US $179.09,not available,Free shipping,https://www.ebay.com/itm/145942297127?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014488
-2025-03-19 23:01:57,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",US $149.00,US $199.00,N/A,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014488
-2025-03-19 23:01:57,N/A,N/A,not available,N/A,Not Found
+2025-03-19 23:01:57,"Bose Solo Soundbar 2 Home Theater, Certified Refurbished",US $149.00,US $199.00,,https://www.ebay.com/itm/167031735841?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014488
+2025-03-19 23:01:57,,,not available,,Not Found
 2025-03-19 23:01:57,"Six Feet Under: Complete Third 3rd Season 3 (DVD, 2004, 5-Disc Set) NEW 9z",US $9.12,US $39.95,Free shipping,https://www.ebay.com/itm/405629544715?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014458
 2025-03-19 23:01:57,Otto the Rhino DVD 2012 Animated English Version BRAND-NEW Sealed 9z,US $8.88,US $24.95,Free shipping,https://www.ebay.com/itm/176906606227?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014458
 2025-03-19 23:01:58,4 Movie Collection Comedy Life / Roscoe Jenkins / Bulletproof / Major Payne 9z,US $11.57,US $28.95,Free shipping,https://www.ebay.com/itm/176908198807?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014458
 2025-03-19 23:01:58,Postman Pat-The Movie (DVD 2014) Jim Broadbent- Rupert Grint- David Tennant 9z,US $8.88,US $19.95,Free shipping,https://www.ebay.com/itm/405628830079?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014458
-2025-03-19 23:01:58,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:58,Lenovo DK1633 40A9 ThinkPad USB-C Dock Station 40A90090US + 90W Power Supply,US $55.00,not available,N/A,https://www.ebay.com/itm/145072664056?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
-2025-03-19 23:01:58,"Xiaomi Mi Computer Monitor Light Bar - , Extra Computer Lighting",US $29.99,not available,N/A,https://www.ebay.com/itm/126003498904?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
-2025-03-19 23:01:58,For iPad Pro 11'' (4/3/2/1) Case | Ringke [Fusion Sketch Stand] for Drawing,US $32.99,US $37.99,N/A,https://www.ebay.com/itm/266921467304?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
-2025-03-19 23:01:58,For iPad Pro 11'' (M4 2024) Case | Ringke [Fusion Sketch Stand] for Drawing,US $35.99,US $40.99,N/A,https://www.ebay.com/itm/256583927129?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
-2025-03-19 23:01:58,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:58,Apple iPhone 14 Pro 128GB Unlocked - Excellent,US $446.95,not available,N/A,https://www.ebay.com/itm/405469724990?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
-2025-03-19 23:01:58,Apple iPhone 13 128GB Unlocked - Excellent,US $291.95,not available,N/A,https://www.ebay.com/itm/404240045218?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
-2025-03-19 23:01:58,Apple iPhone 13 128GB Unlocked - Excellent,US $301.99,not available,N/A,https://www.ebay.com/itm/256350256024?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
-2025-03-19 23:01:59,Apple iPhone 13 Pro 256GB Unlocked - Excellent,US $402.95,not available,N/A,https://www.ebay.com/itm/386146593917?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
-2025-03-19 23:01:59,N/A,N/A,not available,N/A,Not Found
-2025-03-19 23:01:59,"Lenovo LOQ 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 12GB RAM 512GB SSD RTX 3050",US $599.99,US $880.99,N/A,https://www.ebay.com/itm/126480962681?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
-2025-03-19 23:01:59,"Seagate IronWolf 12TB 7200RPM SATA 6Gb/s 256MB 3.5"" NAS Hard Drive ST12000VN0007",US $133.99,not available,N/A,https://www.ebay.com/itm/166672350380?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
-2025-03-19 23:01:59,Intel Xeon Gold 6254 3.1GHz 24.75MB 18-Core 200W FCLGA3647 SRF92,US $245.00,not available,N/A,https://www.ebay.com/itm/235898025773?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
-2025-03-19 23:01:59,"Lenovo LOQ-E 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 8GB RAM 512GB SSD RTX 2050",US $499.99,US $699.99,N/A,https://www.ebay.com/itm/126754097392?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
-2025-03-19 23:01:59,N/A,N/A,not available,N/A,Not Found
+2025-03-19 23:01:58,,,not available,,Not Found
+2025-03-19 23:01:58,Lenovo DK1633 40A9 ThinkPad USB-C Dock Station 40A90090US + 90W Power Supply,US $55.00,not available,,https://www.ebay.com/itm/145072664056?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
+2025-03-19 23:01:58,"Xiaomi Mi Computer Monitor Light Bar - , Extra Computer Lighting",US $29.99,not available,,https://www.ebay.com/itm/126003498904?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
+2025-03-19 23:01:58,For iPad Pro 11'' (4/3/2/1) Case | Ringke [Fusion Sketch Stand] for Drawing,US $32.99,US $37.99,,https://www.ebay.com/itm/266921467304?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
+2025-03-19 23:01:58,For iPad Pro 11'' (M4 2024) Case | Ringke [Fusion Sketch Stand] for Drawing,US $35.99,US $40.99,,https://www.ebay.com/itm/256583927129?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014478
+2025-03-19 23:01:58,,,not available,,Not Found
+2025-03-19 23:01:58,Apple iPhone 14 Pro 128GB Unlocked - Excellent,US $446.95,not available,,https://www.ebay.com/itm/405469724990?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
+2025-03-19 23:01:58,Apple iPhone 13 128GB Unlocked - Excellent,US $291.95,not available,,https://www.ebay.com/itm/404240045218?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
+2025-03-19 23:01:58,Apple iPhone 13 128GB Unlocked - Excellent,US $301.99,not available,,https://www.ebay.com/itm/256350256024?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
+2025-03-19 23:01:59,Apple iPhone 13 Pro 256GB Unlocked - Excellent,US $402.95,not available,,https://www.ebay.com/itm/386146593917?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014466
+2025-03-19 23:01:59,,,not available,,Not Found
+2025-03-19 23:01:59,"Lenovo LOQ 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 12GB RAM 512GB SSD RTX 3050",US $599.99,US $880.99,,https://www.ebay.com/itm/126480962681?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
+2025-03-19 23:01:59,"Seagate IronWolf 12TB 7200RPM SATA 6Gb/s 256MB 3.5"" NAS Hard Drive ST12000VN0007",US $133.99,not available,,https://www.ebay.com/itm/166672350380?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
+2025-03-19 23:01:59,Intel Xeon Gold 6254 3.1GHz 24.75MB 18-Core 200W FCLGA3647 SRF92,US $245.00,not available,,https://www.ebay.com/itm/235898025773?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
+2025-03-19 23:01:59,"Lenovo LOQ-E 15.6"" FHD 144Hz Gaming Laptop i5-12450HX 8GB RAM 512GB SSD RTX 2050",US $499.99,US $699.99,,https://www.ebay.com/itm/126754097392?_trkparms=5373%3A5000014449%7C5374%3ATech%7C5079%3A5000014490
+2025-03-19 23:01:59,,,not available,,Not Found
+2025-03-19 21:19:03,Apple iPhone 14 256GB Factory Unlocked AT&T T-Mobile Verizon Very Good Condition,$369.95,$899.00,Free shipping,https://www.ebay.com/itm/295504908589?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-03-19 21:19:04,Apple iPhone 12 64GB - Fully Unlocked - VERY GOOD Condition!! Unlocked!!,$210.99,$599.00,Free shipping,https://www.ebay.com/itm/325852789181?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-03-19 21:19:04,Apple iPhone 14 256GB Network Unlocked Excellent Condition,$402.50,$426.21,Free shipping,https://www.ebay.com/itm/356103750807?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-03-19 21:19:04,Apple iPhone 12 Pro A2341 256GB Unlocked Good Condition,$299.99,not available,Free shipping,https://www.ebay.com/itm/354519904238?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006423
+2025-03-19 21:19:04,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:04,"HP Laptop AMD Ryzen 5 7530U 16GB 1 TB SSD 17.3"" Touchscreen W11H 17-cp3055cl",$399.99,$599.99,Free shipping,https://www.ebay.com/itm/305956067711?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-03-19 21:19:04,"Apple MacBook Pro 13"" Late 2020 M1 1TB SSD 16GB RAM Space Gray - Good",$649.99,not available,Free shipping,https://www.ebay.com/itm/156171886224?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-03-19 21:19:05,"Acer Aspire 3 Laptop 15.6"" 1TB AMD Ryzen 5 7520U 2.8GHz Certified Reburbished",$275.99,$499.99,Free shipping,https://www.ebay.com/itm/266889342994?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-03-19 21:19:05,Acer PredatorNeo Laptop 16 16GB 1TB NVIDIA GeForce RTX4060 Certified Refurbished,$960.99,"$2,371.82",Free shipping,https://www.ebay.com/itm/266889342832?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006407
+2025-03-19 21:19:05,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:05,LG 55-Inch Class OLED evo G4 Series 4K TV with webOS 24,"$1,499.00","$3,199.95",Free shipping,https://www.ebay.com/itm/186732090674?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-03-19 21:19:05,Samsung Music Frame Dolby Atmos Picture Frame/Smart Speaker,$183.00,$499.99,Free shipping,https://www.ebay.com/itm/186849010545?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-03-19 21:19:05,LG 77-Inch Class OLED evo C4 Series TV with webOS 24,"$1,856.00","$4,199.95",Free shipping,https://www.ebay.com/itm/156232239135?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-03-19 21:19:05,BenQ GP500 4K HDR LED Smart Home Theater Projector 1500 Lm Auto Focus 1.3x zoom,$734.00,"$1,799.00",Free shipping,https://www.ebay.com/itm/166398780476?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006409
+2025-03-19 21:19:05,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:05,DJI Mavic 3 Classic Fly More Pro Vlogger -2 Battery Combo (DJI RC) Drone-CRB,"$1,499.00","$1,899.00",Free shipping,https://www.ebay.com/itm/305955941857?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-03-19 21:19:05,DJI Mini 3 Pro Fly More Vlogger Combo (DJI RC ) Drone 4k,$937.00,"$1,249.00",Free shipping,https://www.ebay.com/itm/305845152874?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-03-19 21:19:05,Samsung Music Frame Dolby Atmos Picture Frame/Smart Speaker,$183.00,$499.99,Free shipping,https://www.ebay.com/itm/186849010545?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-03-19 21:19:05,Sony FE 24-70mm F2.8 GM II Lens,"$1,719.00","$2,306.99",Free shipping,https://www.ebay.com/itm/204911213109?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006430
+2025-03-19 21:19:05,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:05,Nintendo Switch OLED 64GB NEON Red Blue Joy Con Newest Version +FAST FREE SHIP!⭐,$269.99,$359.99,Free shipping,https://www.ebay.com/itm/195122716310?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-03-19 21:19:05,🔥 Nintendo Switch OLED 64GB WHITE Joy Cons Newest Game Console + 2 Day SHIP! 🔥,$269.99,$369.99,Free shipping,https://www.ebay.com/itm/194991515485?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-03-19 21:19:05,"Audeze Maxwell Wireless Gaming Headset for Xbox, PS, Mac, & PC",$278.00,$373.99,Free shipping,https://www.ebay.com/itm/205305863435?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-03-19 21:19:05,"Audeze Maxwell Wireless Gaming Headset for PlayStation, Mac, PC, and Switch",$264.00,$305.99,Free shipping,https://www.ebay.com/itm/197038681586?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006401
+2025-03-19 21:19:05,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:05,"2020 iPad 8th Gen 10.2"" MYN32LL/A 32GB & Cellular Unlocked (Space Gray) - Good",$136.99,$329.00,Free shipping,https://www.ebay.com/itm/354250488438?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-03-19 21:19:06,"Samsung Galaxy Tab S8 Ultra 14.6"" 128GB X900 Wifi Only No S-Pen - Excellent",$390.00,$899.99,Free shipping,https://www.ebay.com/itm/256402595266?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-03-19 21:19:06,Apple - Geek Squad Certified Refurbished 11-Inch iPad Pro with Wi-Fi - 128GB ...,N/A,$799.00,Free shipping,https://www.ebay.com/itm/196689072910?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-03-19 21:19:06,Acer Iconia Android Tablet - 64GB SSD - A8 A8-11-A30S - Certified Refurbished,$79.99,not available,Free shipping,https://www.ebay.com/itm/256754458088?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006415
+2025-03-19 21:19:06,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:06,Apple AirPods Pro 2nd Generation Gen 2 2023 A2968 with Magsafe USB-C Charging,$149.95,$250.00,Free shipping,https://www.ebay.com/itm/285636515887?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-03-19 21:19:06,Sony WF-1000XM5 Truly Wireless Bluetooth Noise Canceling Headphones - Black,$112.99,$299.99,Free shipping,https://www.ebay.com/itm/276015021037?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-03-19 21:19:06,Anker PowerCoreIII Sense Portable Charger 10K Power Bank 20W USB-C for iPhone,$14.99,$39.99,Free shipping,https://www.ebay.com/itm/383508840902?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-03-19 21:19:06,Anker 20W USB-C Portable Charger Power Bank 10000mAh Power Delivery Battery Pack,$14.99,$39.99,Free shipping,https://www.ebay.com/itm/385001141142?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006419
+2025-03-19 21:19:06,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:06,"Seagate Exos 28TB 7.2K RPM SATA 6Gb/s 3.5"" Enterprise HDD - ST28000NM000C",$334.99,$379.99,Free shipping,https://www.ebay.com/itm/296879436001?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-03-19 21:19:06,"Seagate Skyhawk AI ST12000VX0017 12TB 7200RPM 3.5"" SATA 6.0Gb/s Surveillance HDD",$115.99,$179.99,Free shipping,https://www.ebay.com/itm/176895047318?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-03-19 21:19:06,"Seagate EXOS X16 ST14000NM005G 14TB 256MB 7200rpm 3.5"" SATA 6Gb/s Enterprise HDD",$147.99,$199.99,Free shipping,https://www.ebay.com/itm/176825170520?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-03-19 21:19:06,"Seagate EXOS X16 16TB 256MB 7200rpm 3.5"" SATA 6Gb/s Enterprise HDD ST16000NM001G",$179.99,$219.99,Free shipping,https://www.ebay.com/itm/175804626117?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006421
+2025-03-19 21:19:06,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:06,"Aura Studio 3, Wireless speaker with beautiful Harman Kardon sound",$99.95,$299.95,Free shipping,https://www.ebay.com/itm/395535173196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-03-19 21:19:06,STATUS Between 3ANC Wireless Earbuds (CERTIFIED REFURBISHED) - ONYX,$82.88,$119.00,Free shipping,https://www.ebay.com/itm/266692431952?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-03-19 21:19:06,Sony WH-1000XM5/B Wireless Industry Leading Noise Canceling Bluetooth Headphones,$199.99,$399.99,Free shipping,https://www.ebay.com/itm/314074071401?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-03-19 21:19:07,Skullcandy Smokin' Buds XT- Black (CERTIFIED REFURBISHED),$11.13,$18.99,Free shipping,https://www.ebay.com/itm/266646620402?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006403
+2025-03-19 21:19:07,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:07,Ricoh/Fujitsu ScanSnap iX1400 One-Touch 600dpi 40ppm/80ipm Auto Duplex Scanner,$195.00,$435.00,Free shipping,https://www.ebay.com/itm/176489716730?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-03-19 21:19:07,Epson RapidReceipt RR-600W Wireless Scanner - Certified Refurbished,$279.99,$299.99,Free shipping,https://www.ebay.com/itm/204884183797?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-03-19 21:19:07,Epson Perfection V600 Photo Scanner - Certified Refurbished,$299.99,not available,Free shipping,https://www.ebay.com/itm/226451126467?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-03-19 21:19:07,Canon Color imageCLASS MF642Cdw Wireless Laser Printer w/ Toner PRMCT054H-4 Pack,$309.99,$599.95,Free shipping,https://www.ebay.com/itm/296874880362?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006417
+2025-03-19 21:19:07,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:07,Hifonics HFXR Digital Signal Processor Universal Mobile Audio Silver New,$49.95,$99.99,Free shipping,https://www.ebay.com/itm/155477831041?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-03-19 21:19:07,MB Quart FKB169 6x9 2-Way Car Speakers 75W RMS 150W Peak UTV Compatible New,$39.95,$79.99,Free shipping,https://www.ebay.com/itm/155534258683?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-03-19 21:19:07,MB Quart Formula FKB168 5x7/6x8 2-Way Car Speakers 50W RMS 100W Peak Power New,$24.99,$44.99,Free shipping,https://www.ebay.com/itm/155534260342?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-03-19 21:19:07,ZS5768CX ZEUS 5x7/6x8 Inch Speakers 1-inch Neo-Mylar Soft Dome Tweeter,$26.73,$54.99,Free shipping,https://www.ebay.com/itm/155691326798?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006432
+2025-03-19 21:19:07,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:07,Sony FE 24-70mm F2.8 GM II Lens,"$1,719.00","$2,306.99",Free shipping,https://www.ebay.com/itm/204911213109?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-03-19 21:19:07,Canon 3680C002 Rf 24-70mm F2.8 L is USM,"$1,849.00","$2,656.99",Free shipping,https://www.ebay.com/itm/326389378879?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-03-19 21:19:07,"Sigma 24-70MM F2.8 DG DN II ART Lens, L Mount",$999.00,"$2,616.00",Free shipping,https://www.ebay.com/itm/286205099093?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-03-19 21:19:07,Sigma 23mm F1.4 DC DN Contemporary Lens for Sony E Mount with Camera Bag Bundle,$499.99,$594.00,Free shipping,https://www.ebay.com/itm/285307948467?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006425
+2025-03-19 21:19:07,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:07,LG 55-Inch Class OLED evo G4 Series 4K TV with webOS 24,"$1,499.00","$3,199.95",Free shipping,https://www.ebay.com/itm/186732090674?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-03-19 21:19:07,Samsung Music Frame Dolby Atmos Picture Frame/Smart Speaker,$183.00,$499.99,Free shipping,https://www.ebay.com/itm/186849010545?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-03-19 21:19:08,"Aura Studio 3, Wireless speaker with beautiful Harman Kardon sound",$99.95,$299.95,Free shipping,https://www.ebay.com/itm/395535173196?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-03-19 21:19:08,LG 77-Inch Class OLED evo C4 Series TV with webOS 24,"$1,856.00","$4,199.95",Free shipping,https://www.ebay.com/itm/156232239135?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006413
+2025-03-19 21:19:08,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:08,Apple Pencil (USB-C) - White Stylus MUWA3AM/A with Pixel-Perfect Precision,$48.88,$51.45,Free shipping,https://www.ebay.com/itm/296262723993?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-03-19 21:19:08,"Logitech Z623 400 Watt Home Speaker System, 2.1 Speaker System - Black",$95.00,$132.68,Free shipping,https://www.ebay.com/itm/167065352702?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-03-19 21:19:08,Logitech G560 PC Gaming Speaker System with 7.1 DTS:X Ultra Surround Sound,$128.00,$249.99,Free shipping,https://www.ebay.com/itm/167051732357?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-03-19 21:19:08,Razer Barracuda X Wireless Multi Platform Gaming and Mobile Black Headset,$41.99,$99.95,Free shipping,https://www.ebay.com/itm/286097764131?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006427
+2025-03-19 21:19:08,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:08,Apple Watch Series 6 40mm (GPS + Cellular) Aluminum Case - Very Good,$119.99,$599.00,Free shipping,https://www.ebay.com/itm/254878963982?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-03-19 21:19:08,Apple Watch Series 10 GPS + Cellular 42mm Smartwatch Aluminium Case - Excellent,$294.99,$499.00,Free shipping,https://www.ebay.com/itm/156512158074?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-03-19 21:19:08,Apple iPhone 14 256GB Factory Unlocked AT&T T-Mobile Verizon Very Good Condition,$369.95,$899.00,Free shipping,https://www.ebay.com/itm/295504908589?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-03-19 21:19:08,Apple iPhone 12 64GB - Fully Unlocked - VERY GOOD Condition!! Unlocked!!,$210.99,$599.00,Free shipping,https://www.ebay.com/itm/325852789181?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006411
+2025-03-19 21:19:08,N/A,N/A,not available,N/A,Not Found
+2025-03-19 21:19:08,TP-Link Deco AXE5300 Wi-Fi 6E Tri-Band 9 3-Pack (Refurbished),$174.99,$299.99,Free shipping,https://www.ebay.com/itm/144782360525?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-03-19 21:19:08,Ricoh/Fujitsu ScanSnap iX1400 One-Touch 600dpi 40ppm/80ipm Auto Duplex Scanner,$195.00,$435.00,Free shipping,https://www.ebay.com/itm/176489716730?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-03-19 21:19:08,"Acer XZ322QU 31.5"" Curved Monitor LED 144Hz 2560x1440 Certified Refurbished",$149.99,$249.99,Free shipping,https://www.ebay.com/itm/256547414823?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-03-19 21:19:09,"Acer PM161Q 15.6"" Monitor LCD Display 60Hz 1920x1080 Certified Refurbished",$59.99,$149.99,Free shipping,https://www.ebay.com/itm/275924898150?_trkparms=5373%3A5000006400%7C5374%3ATech%7C5079%3A5000006405
+2025-03-19 21:19:09,N/A,N/A,not available,N/A,Not Found
