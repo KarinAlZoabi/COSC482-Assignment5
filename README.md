@@ -38,7 +38,7 @@ The `clean_data.py` file performs data cleaning by:
 - A scatter plot comparing prices with original prices shows a positive correlation: as the price increases, the original price also increases.
 - Most original prices are between $0 and $1000, approximately double the discounted price.
 
-![Price vs Original Price Scatter Plot](image-1.png)
+![Price vs Original Price Scatter Plot](image.png)
 
 ### 3. **Shipping Information Analysis**
 
@@ -57,9 +57,7 @@ The `clean_data.py` file performs data cleaning by:
 ### 6. **Discount Analysis**
 
 - The top 2 products are the same ASUS Zenfone, with an 87% discount.
-- The last 3 products are the same Galaxy Watch scraped at different times:
-  - The first two have the same price of $379.99 with an 86% discount.
-  - The third has a higher price of $449.99 and an 82% discount.
+- The last 3 products are the same Galaxy Watch (234.95$) scraped at different times, they have a discount value of 80%
 
 ---
 
